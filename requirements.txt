@@ -17,7 +17,7 @@ openpyxl==2.5.1
 Pillow==4.2.1
 psycopg2==2.6.2
 PyYAML==3.12
-requests==2.19.1
+requests==2.20.0
 tablib==0.12.1
 unicodecsv==0.14.1
 urllib3==1.23
